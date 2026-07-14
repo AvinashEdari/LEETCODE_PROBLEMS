@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
@@ -24,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0989-add-to-array-form-of-integer) |
 <!---LeetCode Topics End-->
