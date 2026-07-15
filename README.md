@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0989-add-to-array-form-of-integer) |
+| [1572-matrix-diagonal-sum](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0989-add-to-array-form-of-integer) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
