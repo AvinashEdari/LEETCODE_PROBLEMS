@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0989-add-to-array-form-of-integer](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0989-add-to-array-form-of-integer) |
 | [1572-matrix-diagonal-sum](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
