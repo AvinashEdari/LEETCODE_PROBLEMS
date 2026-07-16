@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0989-add-to-array-form-of-integer](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0989-add-to-array-form-of-integer) |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
