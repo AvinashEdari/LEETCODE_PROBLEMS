@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0989-add-to-array-form-of-integer) |
+| [1534-count-good-triplets](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
