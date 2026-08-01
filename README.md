@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AvinashEdari/LEETCODE_PROBLEMS/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
